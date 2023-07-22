@@ -1,0 +1,18 @@
+export const ADDNEWTODO='ADDNEW_TODO';
+export const GET_All_Todo='GETALL_TODO';
+export const TOGGLE_TODO='TOGGLE_TODO';
+export const UPDATE_TODO='UPDATE_TODO';
+export const DELETE_TODO='DELETE_TODO';
+export const TOGGLE_TAB='TOGGLE_TAB';
+export const ALL_TODOS='ALL_TODOS';
+export const ACTIVE_TODOS='ACTIVE_TODOS';
+export const COMPLETED_TODOS='COMPLETED_TODOS';
+export const TABS=[ALL_TODOS, ACTIVE_TODOS, COMPLETED_TODOS];
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const RESET_STORE = 'RESET_STORE';
+export const UPDATE_SUCCESS='UPDATE_SUCCESS';
+export const UPDATE_FAIL='UPDATE_FAIL';
